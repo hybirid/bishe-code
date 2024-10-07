@@ -1,7 +1,7 @@
 # bishe-code
 毕设源码、毕设、源码、计算机毕业设计项目源码大全、计算机毕业设计源码
 
-毕设源码地址：[http://ai.muziwk.com/](http://code.muziwk.com/)
+毕设源码地址：[http://code.muziwk.com/](http://code.muziwk.com/)
 
 
 | 项目编号 | 项目名称                  | 项目地址                             |
